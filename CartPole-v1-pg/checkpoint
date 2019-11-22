@@ -1,0 +1,3 @@
+model_checkpoint_path: "pg-checkpoint-400"
+all_model_checkpoint_paths: "pg-checkpoint-300"
+all_model_checkpoint_paths: "pg-checkpoint-400"

@@ -1,0 +1,2 @@
+model_checkpoint_path: "pg-checkpoint-0"
+all_model_checkpoint_paths: "pg-checkpoint-0"
